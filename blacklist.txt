@@ -3,3 +3,4 @@ beap.gemini.yahoo.com
 crm.platformbot.xyz
 meh.com
 greenmangaming.com
+pjatr.com
