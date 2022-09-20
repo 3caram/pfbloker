@@ -65,6 +65,7 @@ mobiletechsolution.xyz
 msftncsi.com
 msn.com
 netflix.com
+newrelic.com
 nocookie.net
 office.com
 office.net
