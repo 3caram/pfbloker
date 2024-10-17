@@ -20,7 +20,8 @@
 @@||use.fontawesome.com^
 @@||ajax.cloudflare.com^
 @@||akamai-webcdn.kgstatic.net^
-@@||gitcdn.github.io^
+@@||gitcdn.github.com
+@@||goseesam.com^
 @@||vjs.zencdn.net^
 @@||cdn.plyr.io^
 @@||cdn.materialdesignicons.com^
